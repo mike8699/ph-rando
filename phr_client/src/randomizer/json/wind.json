@@ -1,0 +1,2967 @@
+{
+    "dngn_wind": {
+        "Map/dngn_wind/map00.bin": {
+            "dngn_wind_00.zmb": [
+                {
+                    "object_id": "26",
+                    "object_type": "None",
+                    "location": "0x31d4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x31f0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x320c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3228",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3244",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3260",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x327c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "16",
+                    "object_type": "Game Crash",
+                    "location": "0x3298",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "16",
+                    "object_type": "Game Crash",
+                    "location": "0x32b4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x32d0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x32ec",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3308",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "88",
+                    "object_type": "None",
+                    "location": "0x3324",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "88",
+                    "object_type": "None",
+                    "location": "0x3340",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "88",
+                    "object_type": "None",
+                    "location": "0x335c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "88",
+                    "object_type": "None",
+                    "location": "0x3378",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "88",
+                    "object_type": "None",
+                    "location": "0x3394",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x33b0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x33cc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "88",
+                    "object_type": "None",
+                    "location": "0x33e8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3404",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3420",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x343c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3458",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3474",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3490",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "16",
+                    "object_type": "Game Crash",
+                    "location": "0x34ac",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "16",
+                    "object_type": "Game Crash",
+                    "location": "0x34c8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "7",
+                    "object_type": "Grey and Blue Stone Door",
+                    "location": "0x34e4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "90",
+                    "object_type": "None",
+                    "location": "0x3500",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x351c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3538",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3554",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3570",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "60",
+                    "object_type": "Collisionless Vertical Grass Tile",
+                    "location": "0x358c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "88",
+                    "object_type": "None",
+                    "location": "0x35a8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "88",
+                    "object_type": "None",
+                    "location": "0x35c4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "88",
+                    "object_type": "None",
+                    "location": "0x35e0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "7",
+                    "object_type": "Grey and Blue Stone Door",
+                    "location": "0x35fc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "8",
+                    "object_type": "Small Stone Slab",
+                    "location": "0x3618",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3634",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3650",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x366c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3688",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x36a4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "7",
+                    "object_type": "Grey and Blue Stone Door",
+                    "location": "0x36c0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "5",
+                    "object_type": "Brown Floor Switch",
+                    "location": "0x36dc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "96",
+                    "object_type": "None",
+                    "location": "0x36f8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "95",
+                    "object_type": "None",
+                    "location": "0x3714",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "93",
+                    "object_type": "None",
+                    "location": "0x3730",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x374c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3768",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x3784",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x37a0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x37bc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x37d8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x37f4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3810",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x382c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3848",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3864",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3880",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x389c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x38b8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x38d4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x38f0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x390c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3928",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "27",
+                    "object_type": "None",
+                    "location": "0x3944",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3960",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x397c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3998",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x39b4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x39d0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "7",
+                    "object_type": "Grey and Blue Stone Door",
+                    "location": "0x39ec",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "5",
+                    "object_type": "Brown Floor Switch",
+                    "location": "0x3a08",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3a24",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3a40",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3a5c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3a78",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3a94",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ab0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3acc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ae8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3b04",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3b20",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3b3c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3b58",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3b74",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3b90",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x3bac",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x3bc8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "64",
+                    "object_type": "None",
+                    "location": "0x3be4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "64",
+                    "object_type": "None",
+                    "location": "0x3c00",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3c1c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3c38",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3c54",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3c70",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3c8c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ca8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3cc4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3ce0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3cfc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3d18",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3d34",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "33",
+                    "object_type": "None",
+                    "location": "0x3d50",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3d6c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3d88",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "105",
+                    "object_type": "None",
+                    "location": "0x3da4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3dc0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "16",
+                    "object_type": "Game Crash",
+                    "location": "0x3ddc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3df8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "88",
+                    "object_type": "None",
+                    "location": "0x3e14",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "105",
+                    "object_type": "None",
+                    "location": "0x3e30",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3e4c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3e68",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "106",
+                    "object_type": "None",
+                    "location": "0x3e84",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "101",
+                    "object_type": "None",
+                    "location": "0x3ea0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ebc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ed8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ef4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f10",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f2c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f48",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f64",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f80",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f9c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3fb8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3fd4",
+                    "object_metadata": {
+                    }
+                }
+            ]
+        },
+        "Map/dngn_wind/map01.bin": {
+            "dngn_wind_01.zmb": [
+                {
+                    "object_id": "26",
+                    "object_type": "None",
+                    "location": "0x31b4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "26",
+                    "object_type": "None",
+                    "location": "0x31d0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "26",
+                    "object_type": "None",
+                    "location": "0x31ec",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "18",
+                    "object_type": "Game crash",
+                    "location": "0x3208",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "18",
+                    "object_type": "Game crash",
+                    "location": "0x3224",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3240",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x325c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3278",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3294",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x32b0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x32cc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x32e8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3304",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3320",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x333c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3358",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3374",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3390",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x33ac",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x33c8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "16",
+                    "object_type": "Game Crash",
+                    "location": "0x33e4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "35",
+                    "object_type": "None",
+                    "location": "0x3400",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "7",
+                    "object_type": "Grey and Blue Stone Door",
+                    "location": "0x341c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "8",
+                    "object_type": "Small Stone Slab",
+                    "location": "0x3438",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "7",
+                    "object_type": "Grey and Blue Stone Door",
+                    "location": "0x3454",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3470",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x348c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x34a8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x34c4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "35",
+                    "object_type": "None",
+                    "location": "0x34e0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x34fc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3518",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "96",
+                    "object_type": "None",
+                    "location": "0x3534",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "96",
+                    "object_type": "None",
+                    "location": "0x3550",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "95",
+                    "object_type": "None",
+                    "location": "0x356c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "93",
+                    "object_type": "None",
+                    "location": "0x3588",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x35a4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x35c0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x35dc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x35f8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x3614",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x3630",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x364c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x3668",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x3684",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x36a0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x36bc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x36d8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x36f4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3710",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x372c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3748",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3764",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3780",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x379c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x37b8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x37d4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x37f0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x380c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3828",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3844",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3860",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x387c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3898",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x38b4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x38d0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x38ec",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3908",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3924",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3940",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x395c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3978",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3994",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x39b0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x39cc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x39e8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3a04",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3a20",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3a3c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3a58",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3a74",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3a90",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3aac",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ac8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ae4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3b00",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3b1c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3b38",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3b54",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3b70",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3b8c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ba8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3bc4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3be0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3bfc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3c18",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3c34",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3c50",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3c6c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3c88",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ca4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3cc0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3cdc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3cf8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3d14",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3d30",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3d4c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3d68",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3d84",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3da0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3dbc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3dd8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3df4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3e10",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3e2c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3e48",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3e64",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3e80",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3e9c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3eb8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ed4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ef0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f0c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f28",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f44",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f60",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f7c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f98",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3fb4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3fd0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3fec",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4008",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x4024",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x4040",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x405c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4078",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4094",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x40b0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x40cc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x40e8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x4104",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "95",
+                    "object_type": "None",
+                    "location": "0x4120",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "95",
+                    "object_type": "None",
+                    "location": "0x413c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4158",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4174",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4190",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x41ac",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x41c8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x41e4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4200",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x421c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4238",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4254",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4270",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x428c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x42a8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "27",
+                    "object_type": "None",
+                    "location": "0x42c4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x42e0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x42fc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4318",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4334",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4350",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x436c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "7",
+                    "object_type": "Grey and Blue Stone Door",
+                    "location": "0x4388",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x43a4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x43c0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x43dc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x43f8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4414",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4430",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x444c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4468",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4484",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x44a0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x44bc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "5",
+                    "object_type": "Brown Floor Switch",
+                    "location": "0x44d8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x44f4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4510",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "10",
+                    "object_type": "Wooden Treasure Chest",
+                    "location": "0x452c",
+                    "object_metadata": {
+                        "chest_item_id": "47",
+                        "chest_item_type": "Courage Gem"
+                    }
+                },
+                {
+                    "object_id": "106",
+                    "object_type": "None",
+                    "location": "0x4548",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "10",
+                    "object_type": "Wooden Treasure Chest",
+                    "location": "0x4564",
+                    "object_metadata": {
+                        "chest_item_id": "125",
+                        "chest_item_type": "Ruto Crown"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4580",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x459c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x45b8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x45d4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x45f0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x460c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4628",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4644",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4660",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x467c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4698",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x46b4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x46d0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x46ec",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "63",
+                    "object_type": "None",
+                    "location": "0x4708",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4724",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4740",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x475c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4778",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4794",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x47b0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x47cc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x47e8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4804",
+                    "object_metadata": {
+                    }
+                }
+            ]
+        },
+        "Map/dngn_wind/map02.bin": {
+            "dngn_wind_02.zmb": [
+                {
+                    "object_id": "26",
+                    "object_type": "None",
+                    "location": "0x330c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "9",
+                    "object_type": "Large Wooden/Stone Key Door",
+                    "location": "0x3328",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3344",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3360",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x337c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "26",
+                    "object_type": "None",
+                    "location": "0x3398",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "61",
+                    "object_type": "None",
+                    "location": "0x33b4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "90",
+                    "object_type": "None",
+                    "location": "0x33d0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x33ec",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3408",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3424",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3440",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x345c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3478",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3494",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x34b0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x34cc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x34e8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "60",
+                    "object_type": "Collisionless Vertical Grass Tile",
+                    "location": "0x3504",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "93",
+                    "object_type": "None",
+                    "location": "0x3520",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x353c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3558",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "7",
+                    "object_type": "Grey and Blue Stone Door",
+                    "location": "0x3574",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "7",
+                    "object_type": "Grey and Blue Stone Door",
+                    "location": "0x3590",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "52",
+                    "object_type": "None",
+                    "location": "0x35ac",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "59",
+                    "object_type": "None",
+                    "location": "0x35c8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "59",
+                    "object_type": "None",
+                    "location": "0x35e4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "59",
+                    "object_type": "None",
+                    "location": "0x3600",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x361c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x3638",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x3654",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x3670",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x368c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x36a8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x36c4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x36e0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x36fc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x3718",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x3734",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x3750",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "35",
+                    "object_type": "None",
+                    "location": "0x376c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "106",
+                    "object_type": "None",
+                    "location": "0x3788",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "61",
+                    "object_type": "None",
+                    "location": "0x37a4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x37c0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "10",
+                    "object_type": "Wooden Treasure Chest",
+                    "location": "0x37dc",
+                    "object_metadata": {
+                        "chest_item_id": "45",
+                        "chest_item_type": "Power Gem"
+                    }
+                },
+                {
+                    "object_id": "59",
+                    "object_type": "None",
+                    "location": "0x37f8",
+                    "object_metadata": {
+                    }
+                }
+            ]
+        },
+        "Map/dngn_wind/map03.bin": {
+            "dngn_wind_03.zmb": [
+                {
+                    "object_id": "95",
+                    "object_type": "None",
+                    "location": "0x310c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3128",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3144",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "64",
+                    "object_type": "None",
+                    "location": "0x3160",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "64",
+                    "object_type": "None",
+                    "location": "0x317c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "101",
+                    "object_type": "None",
+                    "location": "0x3198",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "101",
+                    "object_type": "None",
+                    "location": "0x31b4",
+                    "object_metadata": {
+                    }
+                }
+            ]
+        },
+        "Map/dngn_wind/map04.bin": {
+            "dngn_wind_04.zmb": [
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3118",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3134",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3150",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x316c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3188",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x31a4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "26",
+                    "object_type": "None",
+                    "location": "0x31c0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x31dc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x31f8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x3214",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x3230",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x324c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x3268",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3284",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "27",
+                    "object_type": "None",
+                    "location": "0x32a0",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x32bc",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x32d8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x32f4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3310",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x332c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "35",
+                    "object_type": "None",
+                    "location": "0x3348",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "101",
+                    "object_type": "None",
+                    "location": "0x3364",
+                    "object_metadata": {
+                    }
+                }
+            ]
+        },
+        "Map/dngn_wind/map05.bin": {
+            "dngn_wind_05.zmb": [
+                {
+                    "object_id": "95",
+                    "object_type": "None",
+                    "location": "0x30e4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x3100",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "64",
+                    "object_type": "None",
+                    "location": "0x311c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3138",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3154",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x3170",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x318c",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x31a8",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "3",
+                    "object_type": "Blue Pot",
+                    "location": "0x31c4",
+                    "object_metadata": {
+                    }
+                },
+                {
+                    "object_id": "101",
+                    "object_type": "None",
+                    "location": "0x31e0",
+                    "object_metadata": {
+                    }
+                }
+            ]
+        }
+    },
+}

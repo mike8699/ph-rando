@@ -1,0 +1,2165 @@
+{
+  "boss_flame": {
+    "boss_flame_00.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x318c",
+        "object_metadata": {
+          "chest_item_id": "10",
+          "chest_item_type": "Heart Container"
+        },
+        "universal_id": "boss_flame_00_318c"
+      }
+    ]
+  },
+  "boss_ghost": {
+    "boss_ghost_00.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x3178",
+        "object_metadata": {
+          "chest_item_id": "10",
+          "chest_item_type": "Heart Container"
+        },
+        "universal_id": "boss_ghost_00_3178"
+      }
+    ]
+  },
+  "boss_last1": {
+    "boss_last1_00.zmb": []
+  },
+  "boss_last2": {
+    "boss_last2_00.zmb": []
+  },
+  "boss_last3": {
+    "boss_last3_00.zmb": []
+  },
+  "boss_pluck": {
+    "boss_pluck_00.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x314c",
+        "object_metadata": {
+          "chest_item_id": "10",
+          "chest_item_type": "Heart Container"
+        },
+        "universal_id": "boss_pluck_00_314c"
+      }
+    ]
+  },
+  "boss_power": {
+    "boss_power_00.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x32e4",
+        "object_metadata": {
+          "chest_item_id": "10",
+          "chest_item_type": "Heart Container"
+        },
+        "universal_id": "boss_power_00_32e4"
+      }
+    ]
+  },
+  "boss_water": {
+    "boss_water_00.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x3248",
+        "object_metadata": {
+          "chest_item_id": "10",
+          "chest_item_type": "Heart Container"
+        },
+        "universal_id": "boss_water_00_3248"
+      }
+    ]
+  },
+  "boss_wind": {
+    "boss_wind_00.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x3278",
+        "object_metadata": {
+          "chest_item_id": "10",
+          "chest_item_type": "Heart Container"
+        },
+        "universal_id": "boss_wind_00_3278"
+      }
+    ]
+  },
+  "boss_wisdom": {
+    "boss_wisdom_00.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x31e8",
+        "object_metadata": {
+          "chest_item_id": "10",
+          "chest_item_type": "Heart Container"
+        },
+        "universal_id": "boss_wisdom_00_31e8"
+      }
+    ]
+  },
+  "dngn_first": {
+    "dngn_first_00.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x331c",
+        "object_metadata": {
+          "chest_item_id": "25",
+          "chest_item_type": "Red Rupee (20)"
+        },
+        "universal_id": "dngn_first_00_331c",
+        "notes": "chest on right side behind pushable block",
+        "required": [
+          {
+            "items": ["bombs"]
+          },
+          {
+            "items": ["bombchus"]
+          },
+          {
+            "items": ["sword"]
+          }
+        ]
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3354",
+        "object_metadata": {
+          "chest_item_id": "1",
+          "chest_item_type": "Key"
+        },
+        "universal_id": "dngn_first_00_3354",
+        "notes": "first chest in mercay island cave",
+        "required": [
+          {
+            "items": ["bombs"]
+          },
+          {
+            "items": ["bombchus"]
+          },
+          {
+            "items": ["sword"]
+          }
+        ]
+      }
+    ],
+    "dngn_first_01.zmb": []
+  },
+  "dngn_flame": {
+    "dngn_flame_00.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3518",
+        "object_metadata": {
+          "chest_item_id": "1",
+          "chest_item_type": "Key"
+        },
+        "universal_id": "dngn_flame_00_3518",
+        "notes": "1st floor bottom right room, need to kill bats to get it",
+        "required": [
+          {
+            "defeatable": ["keese"],
+            "dungeon_access": "dngn_flame"
+          }
+        ]
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x39b0",
+        "object_metadata": {
+          "chest_item_id": "25",
+          "chest_item_type": "Red Rupee (20)"
+        },
+        "universal_id": "dngn_flame_00_39b0",
+        "notes": "1st floor top right room, in room with trap floors",
+        "required": [
+          {
+            "keys": 1,
+            "dungeon_access": "dngn_flame"
+          }
+        ]
+        
+      }
+    ],
+    "dngn_flame_01.zmb": [
+      {
+        "object_id": "92",
+        "object_type": "Big (White/Gold) Chest (Flame Temple/Boomerang)",
+        "location": "0x32dc",
+        "object_metadata": {
+          "chest_item_id": "12",
+          "chest_item_type": "Boomerang"
+        },
+        "universal_id": "dngn_flame_01_32dc",
+        "notes": "2nd floor, must defeat green goo dots to get chest",
+        "required": [
+          {
+            "same_as": "dngn_flame_00_39b0",
+            "defeatable": ["gel"]
+          }
+        ]
+      },
+      {
+        "object_id": "12",
+        "object_type": "Entering the area spawns a treasure chest (Conditional Treasure Chest Spawn?)",
+        "location": "0x3a30",
+        "object_metadata": {
+          "chest_item_id": "25",
+          "chest_item_type": "Red Rupee (20)"
+        },
+        "universal_id": "dngn_flame_01_3a30",
+        "notes": "2nd floor, must kill all flaming keese in bottom left of floor to spawn chest"
+      }
+    ],
+    "dngn_flame_02.zmb": [
+      {
+        "object_id": "90",
+        "object_type": "Big (White/Gold) Chest (Wind Temple/Bombs), (Courage Temple/Bow)",
+        "location": "0x330c",
+        "object_metadata": {
+          "chest_item_id": "15",
+          "chest_item_type": "Boss Key"
+        },
+        "universal_id": "dngn_flame_02_330c",
+        "notes": "",
+        "required": [
+          {
+            "same_as": "dngn_flame_91_3a30",
+            "defeatable": ["fire_keese", "yellow_chuchu"]
+          }
+        ]
+      }
+    ],
+    "dngn_flame_03.zmb": []
+  },
+  "dngn_ghost": {
+    "dngn_ghost_00.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x36e4",
+        "object_metadata": {
+          "chest_item_id": "125",
+          "chest_item_type": "Random Treasure"
+        },
+        "universal_id": "dngn_ghost_00_36e4"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3b28",
+        "object_metadata": {
+          "chest_item_id": "35",
+          "chest_item_type": "Triangle Crystal"
+        },
+        "universal_id": "dngn_ghost_00_3b28"
+      }
+    ],
+    "dngn_ghost_01.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3cfc",
+        "object_metadata": {
+          "chest_item_id": "129",
+          "chest_item_type": "Rupoor (10)"
+        },
+        "universal_id": "dngn_ghost_01_3cfc"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x4028",
+        "object_metadata": {
+          "chest_item_id": "119",
+          "chest_item_type": "Yellow Potion"
+        },
+        "universal_id": "dngn_ghost_01_4028"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x40b4",
+        "object_metadata": {
+          "chest_item_id": "34",
+          "chest_item_type": "Round Crystal"
+        },
+        "universal_id": "dngn_ghost_01_40b4"
+      }
+    ],
+    "dngn_ghost_02.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3570",
+        "object_metadata": {
+          "chest_item_id": "118",
+          "chest_item_type": "Purple Potion"
+        },
+        "universal_id": "dngn_ghost_02_3570"
+      }
+    ],
+    "dngn_ghost_03.zmb": [],
+    "dngn_ghost_04.zmb": []
+  },
+  "dngn_main": {
+    "dngn_main_00.zmb": [
+      {
+        "object_id": "90",
+        "object_type": "Big (White/Gold) Chest (Wind Temple/Bombs), (Courage Temple/Bow)",
+        "location": "0x3aa8",
+        "object_metadata": {
+          "chest_item_id": "19",
+          "chest_item_type": "Treasure Chart (No TB)"
+        },
+        "universal_id": "dngn_main_00_3aa8"
+      },
+      {
+        "object_id": "90",
+        "object_type": "Big (White/Gold) Chest (Wind Temple/Bombs), (Courage Temple/Bow)",
+        "location": "0x3bdc",
+        "object_metadata": {
+          "chest_item_id": "0",
+          "chest_item_type": "Nothing! ('Nothing is here')"
+        },
+        "universal_id": "dngn_main_00_3bdc"
+      }
+    ],
+    "dngn_main_01.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x38e0",
+        "object_metadata": {
+          "chest_item_id": "47",
+          "chest_item_type": "Courage Gem"
+        },
+        "universal_id": "dngn_main_01_38e0"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x38fc",
+        "object_metadata": {
+          "chest_item_id": "125",
+          "chest_item_type": "Random Treasure"
+        },
+        "universal_id": "dngn_main_01_38fc"
+      }
+    ],
+    "dngn_main_02.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x36dc",
+        "object_metadata": {
+          "chest_item_id": "46",
+          "chest_item_type": "Wisdom Gem"
+        },
+        "universal_id": "dngn_main_02_36dc"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x36f8",
+        "object_metadata": {
+          "chest_item_id": "125",
+          "chest_item_type": "Random Treasure"
+        },
+        "universal_id": "dngn_main_02_36f8"
+      }
+    ],
+    "dngn_main_03.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3afc",
+        "object_metadata": {
+          "chest_item_id": "6",
+          "chest_item_type": "Force Gem (No Textbox)"
+        },
+        "universal_id": "dngn_main_03_3afc"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3b18",
+        "object_metadata": {
+          "chest_item_id": "6",
+          "chest_item_type": "Force Gem (No Textbox)"
+        },
+        "universal_id": "dngn_main_03_3b18"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3b34",
+        "object_metadata": {
+          "chest_item_id": "6",
+          "chest_item_type": "Force Gem (No Textbox)"
+        },
+        "universal_id": "dngn_main_03_3b34"
+      },
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x3c68",
+        "object_metadata": {
+          "chest_item_id": "45",
+          "chest_item_type": "Power Gem"
+        },
+        "universal_id": "dngn_main_03_3c68"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x3c84",
+        "object_metadata": {
+          "chest_item_id": "125",
+          "chest_item_type": "Random Treasure"
+        },
+        "universal_id": "dngn_main_03_3c84"
+      }
+    ],
+    "dngn_main_04.zmb": [
+      {
+        "object_id": "90",
+        "object_type": "Big (White/Gold) Chest (Wind Temple/Bombs), (Courage Temple/Bow)",
+        "location": "0x3220",
+        "object_metadata": {
+          "chest_item_id": "20",
+          "chest_item_type": "Treasure Chart (No TB)"
+        },
+        "universal_id": "dngn_main_04_3220"
+      }
+    ],
+    "dngn_main_05.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x3d48",
+        "object_metadata": {
+          "chest_item_id": "45",
+          "chest_item_type": "Power Gem"
+        },
+        "universal_id": "dngn_main_05_3d48"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x3d64",
+        "object_metadata": {
+          "chest_item_id": "125",
+          "chest_item_type": "Random Treasure"
+        },
+        "universal_id": "dngn_main_05_3d64"
+      }
+    ],
+    "dngn_main_06.zmb": [
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x3258",
+        "object_metadata": {
+          "chest_item_id": "117",
+          "chest_item_type": "Red Potion"
+        },
+        "universal_id": "dngn_main_06_3258"
+      },
+      {
+        "object_id": "90",
+        "object_type": "Big (White/Gold) Chest (Wind Temple/Bombs), (Courage Temple/Bow)",
+        "location": "0x3274",
+        "object_metadata": {
+          "chest_item_id": "98",
+          "chest_item_type": "Treasure Map (SEQ)"
+        },
+        "universal_id": "dngn_main_06_3274"
+      }
+    ],
+    "dngn_main_07.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x41e4",
+        "object_metadata": {
+          "chest_item_id": "84",
+          "chest_item_type": "Treasure Map (NWQ)"
+        },
+        "universal_id": "dngn_main_07_41e4"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x4200",
+        "object_metadata": {
+          "chest_item_id": "125",
+          "chest_item_type": "Random Treasure"
+        },
+        "universal_id": "dngn_main_07_4200"
+      }
+    ],
+    "dngn_main_08.zmb": [],
+    "dngn_main_09.zmb": [],
+    "dngn_main_10.zmb": [
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x3740",
+        "object_metadata": {
+          "chest_item_id": "126",
+          "chest_item_type": "Ship Part (Random)"
+        },
+        "universal_id": "dngn_main_10_3740"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x375c",
+        "object_metadata": {
+          "chest_item_id": "34",
+          "chest_item_type": "Round Crystal"
+        },
+        "universal_id": "dngn_main_10_375c"
+      },
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x3778",
+        "object_metadata": {
+          "chest_item_id": "45",
+          "chest_item_type": "Power Gem"
+        },
+        "universal_id": "dngn_main_10_3778"
+      }
+    ],
+    "dngn_main_11.zmb": [
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x42c4",
+        "object_metadata": {
+          "chest_item_id": "126",
+          "chest_item_type": "Ship Part (Random)"
+        },
+        "universal_id": "dngn_main_11_42c4"
+      },
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x42e0",
+        "object_metadata": {
+          "chest_item_id": "47",
+          "chest_item_type": "Courage Gem"
+        },
+        "universal_id": "dngn_main_11_42e0"
+      }
+    ],
+    "dngn_main_12.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x47a8",
+        "object_metadata": {
+          "chest_item_id": "35",
+          "chest_item_type": "Triangle Crystal"
+        },
+        "universal_id": "dngn_main_12_47a8"
+      },
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x47c4",
+        "object_metadata": {
+          "chest_item_id": "46",
+          "chest_item_type": "Wisdom Gem"
+        },
+        "universal_id": "dngn_main_12_47c4"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x47e0",
+        "object_metadata": {
+          "chest_item_id": "126",
+          "chest_item_type": "Ship Part (Random)"
+        },
+        "universal_id": "dngn_main_12_47e0"
+      }
+    ],
+    "dngn_main_13.zmb": [
+      {
+        "object_id": "90",
+        "object_type": "Big (White/Gold) Chest (Wind Temple/Bombs), (Courage Temple/Bow)",
+        "location": "0x3138",
+        "object_metadata": {
+          "chest_item_id": "21",
+          "chest_item_type": "Treasure Chart (No TB)"
+        },
+        "universal_id": "dngn_main_13_3138"
+      }
+    ],
+    "dngn_main_14.zmb": [
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x4508",
+        "object_metadata": {
+          "chest_item_id": "9",
+          "chest_item_type": "Big Green Rupee (100)"
+        },
+        "universal_id": "dngn_main_14_4508"
+      },
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x4594",
+        "object_metadata": {
+          "chest_item_id": "105",
+          "chest_item_type": "Treasure Map (NEQ)"
+        },
+        "universal_id": "dngn_main_14_4594"
+      },
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x45e8",
+        "object_metadata": {
+          "chest_item_id": "117",
+          "chest_item_type": "Red Potion"
+        },
+        "universal_id": "dngn_main_14_45e8"
+      }
+    ],
+    "dngn_main_15.zmb": [
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x4318",
+        "object_metadata": {
+          "chest_item_id": "26",
+          "chest_item_type": "Big Red Rupee (200)"
+        },
+        "universal_id": "dngn_main_15_4318"
+      },
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x4a34",
+        "object_metadata": {
+          "chest_item_id": "125",
+          "chest_item_type": "Random Treasure"
+        },
+        "universal_id": "dngn_main_15_4a34"
+      }
+    ],
+    "dngn_main_16.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x44ac",
+        "object_metadata": {
+          "chest_item_id": "6",
+          "chest_item_type": "Force Gem (No Textbox)"
+        },
+        "universal_id": "dngn_main_16_44ac"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x44c8",
+        "object_metadata": {
+          "chest_item_id": "6",
+          "chest_item_type": "Force Gem (No Textbox)"
+        },
+        "universal_id": "dngn_main_16_44c8"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x44e4",
+        "object_metadata": {
+          "chest_item_id": "27",
+          "chest_item_type": "Big Gold Rupee (300)"
+        },
+        "universal_id": "dngn_main_16_44e4"
+      },
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x4714",
+        "object_metadata": {
+          "chest_item_id": "106",
+          "chest_item_type": "Treasure Map (NEQ)"
+        },
+        "universal_id": "dngn_main_16_4714"
+      },
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x4730",
+        "object_metadata": {
+          "chest_item_id": "126",
+          "chest_item_type": "Ship Part (Random)"
+        },
+        "universal_id": "dngn_main_16_4730"
+      }
+    ],
+    "dngn_main_17.zmb": [
+      {
+        "object_id": "90",
+        "object_type": "Big (White/Gold) Chest (Wind Temple/Bombs), (Courage Temple/Bow)",
+        "location": "0x3234",
+        "object_metadata": {
+          "chest_item_id": "22",
+          "chest_item_type": "Treasure Chart (No TB)"
+        },
+        "universal_id": "dngn_main_17_3234"
+      }
+    ],
+    "dngn_main_18.zmb": [
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x341c",
+        "object_metadata": {
+          "chest_item_id": "135",
+          "chest_item_type": "Ship Part (Random)"
+        },
+        "universal_id": "dngn_main_18_341c"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x3438",
+        "object_metadata": {
+          "chest_item_id": "135",
+          "chest_item_type": "Ship Part (Random)"
+        },
+        "universal_id": "dngn_main_18_3438"
+      }
+    ]
+  },
+  "dngn_main_f": {
+    "dngn_main_f_00.zmb": []
+  },
+  "dngn_pluck": {
+    "dngn_pluck_00.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3b4c",
+        "object_metadata": {
+          "chest_item_id": "125",
+          "chest_item_type": "Random Treasure"
+        },
+        "universal_id": "dngn_pluck_00_3b4c"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3c10",
+        "object_metadata": {
+          "chest_item_id": "126",
+          "chest_item_type": "Ship Part (Random)"
+        },
+        "universal_id": "dngn_pluck_00_3c10"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3d44",
+        "object_metadata": {
+          "chest_item_id": "45",
+          "chest_item_type": "Power Gem"
+        },
+        "universal_id": "dngn_pluck_00_3d44"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3e5c",
+        "object_metadata": {
+          "chest_item_id": "1",
+          "chest_item_type": "Key"
+        },
+        "universal_id": "dngn_pluck_00_3e5c"
+      }
+    ],
+    "dngn_pluck_01.zmb": [
+      {
+        "object_id": "90",
+        "object_type": "Big (White/Gold) Chest (Wind Temple/Bombs), (Courage Temple/Bow)",
+        "location": "0x34ac",
+        "object_metadata": {
+          "chest_item_id": "8",
+          "chest_item_type": "Bow (No TB (TextBox))"
+        },
+        "universal_id": "dngn_pluck_01_34ac"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x3ca8",
+        "object_metadata": {
+          "chest_item_id": "46",
+          "chest_item_type": "Wisdom Gem"
+        },
+        "universal_id": "dngn_pluck_01_3ca8"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3e4c",
+        "object_metadata": {
+          "chest_item_id": "9",
+          "chest_item_type": "Big Green Rupee (100)"
+        },
+        "universal_id": "dngn_pluck_01_3e4c"
+      }
+    ],
+    "dngn_pluck_02.zmb": [
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x32a8",
+        "object_metadata": {
+          "chest_item_id": "33",
+          "chest_item_type": "Square Crystal"
+        },
+        "universal_id": "dngn_pluck_02_32a8"
+      },
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x3a6c",
+        "object_metadata": {
+          "chest_item_id": "15",
+          "chest_item_type": "Boss Key"
+        },
+        "universal_id": "dngn_pluck_02_3a6c"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x3b4c",
+        "object_metadata": {
+          "chest_item_id": "45",
+          "chest_item_type": "Power Gem"
+        },
+        "universal_id": "dngn_pluck_02_3b4c"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3d0c",
+        "object_metadata": {
+          "chest_item_id": "125",
+          "chest_item_type": "Random Treasure"
+        },
+        "universal_id": "dngn_pluck_02_3d0c"
+      }
+    ],
+    "dngn_pluck_03.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3224",
+        "object_metadata": {
+          "chest_item_id": "47",
+          "chest_item_type": "Courage Gem"
+        },
+        "universal_id": "dngn_pluck_03_3224"
+      }
+    ]
+  },
+  "dngn_power": {
+    "dngn_power_00.zmb": [
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x3418",
+        "object_metadata": {
+          "chest_item_id": "25",
+          "chest_item_type": "Red Rupee (20)"
+        },
+        "universal_id": "dngn_power_00_3418"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x3450",
+        "object_metadata": {
+          "chest_item_id": "97",
+          "chest_item_type": "Treasure Map (SEQ)"
+        },
+        "universal_id": "dngn_power_00_3450"
+      }
+    ],
+    "dngn_power_01.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x34c8",
+        "object_metadata": {
+          "chest_item_id": "14",
+          "chest_item_type": "Bombchus (No TB)"
+        },
+        "universal_id": "dngn_power_01_34c8"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x35fc",
+        "object_metadata": {
+          "chest_item_id": "134",
+          "chest_item_type": "Common Treasure"
+        },
+        "universal_id": "dngn_power_01_35fc"
+      }
+    ],
+    "dngn_power_02.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x31cc",
+        "object_metadata": {
+          "chest_item_id": "15",
+          "chest_item_type": "Boss Key"
+        },
+        "universal_id": "dngn_power_02_31cc"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x34dc",
+        "object_metadata": {
+          "chest_item_id": "134",
+          "chest_item_type": "Common Treasure"
+        },
+        "universal_id": "dngn_power_02_34dc"
+      }
+    ],
+    "dngn_power_03.zmb": [
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x34bc",
+        "object_metadata": {
+          "chest_item_id": "25",
+          "chest_item_type": "Red Rupee (20)"
+        },
+        "universal_id": "dngn_power_03_34bc"
+      }
+    ],
+    "dngn_power_04.zmb": [],
+    "dngn_power_05.zmb": [],
+    "dngn_power_10.zmb": []
+  },
+  "dngn_torii": {
+    "dngn_torii_00.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3464",
+        "object_metadata": {
+          "chest_item_id": "45",
+          "chest_item_type": "Power Gem"
+        },
+        "universal_id": "dngn_torii_00_3464"
+      }
+    ]
+  },
+  "dngn_water": {
+    "dngn_water_00.zmb": [],
+    "dngn_water_01.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x379c",
+        "object_metadata": {
+          "chest_item_id": "46",
+          "chest_item_type": "Wisdom Gem"
+        },
+        "universal_id": "dngn_water_01_379c"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x39b0",
+        "object_metadata": {
+          "chest_item_id": "117",
+          "chest_item_type": "Red Potion"
+        },
+        "universal_id": "dngn_water_01_39b0"
+      }
+    ],
+    "dngn_water_02.zmb": [
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x31c8",
+        "object_metadata": {
+          "chest_item_id": "119",
+          "chest_item_type": "Yellow Potion"
+        },
+        "universal_id": "dngn_water_02_31c8"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x33dc",
+        "object_metadata": {
+          "chest_item_id": "1",
+          "chest_item_type": "Key"
+        },
+        "universal_id": "dngn_water_02_33dc"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3698",
+        "object_metadata": {
+          "chest_item_id": "46",
+          "chest_item_type": "Wisdom Gem"
+        },
+        "universal_id": "dngn_water_02_3698"
+      }
+    ],
+    "dngn_water_03.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x3194",
+        "object_metadata": {
+          "chest_item_id": "32",
+          "chest_item_type": "Grappling Hook (No TB)"
+        },
+        "universal_id": "dngn_water_03_3194"
+      }
+    ],
+    "dngn_water_04.zmb": [],
+    "dngn_water_05.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x3120",
+        "object_metadata": {
+          "chest_item_id": "15",
+          "chest_item_type": "Boss Key"
+        },
+        "universal_id": "dngn_water_05_3120"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x33dc",
+        "object_metadata": {
+          "chest_item_id": "1",
+          "chest_item_type": "Key"
+        },
+        "universal_id": "dngn_water_05_33dc"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x3b14",
+        "object_metadata": {
+          "chest_item_id": "118",
+          "chest_item_type": "Purple Potion"
+        },
+        "universal_id": "dngn_water_05_3b14"
+      }
+    ],
+    "dngn_water_06.zmb": []
+  },
+  "dngn_wind": {
+    "dngn_wind_00.zmb": [
+      {
+        "object_id": "90",
+        "object_type": "Big (White/Gold) Chest (Wind Temple/Bombs), (Courage Temple/Bow)",
+        "location": "0x3500",
+        "object_metadata": {
+          "chest_item_id": "15",
+          "chest_item_type": "Boss Key"
+        },
+        "universal_id": "dngn_wind_00_3500"
+      }
+    ],
+    "dngn_wind_01.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x452c",
+        "object_metadata": {
+          "chest_item_id": "47",
+          "chest_item_type": "Courage Gem"
+        },
+        "universal_id": "dngn_wind_01_452c"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x4564",
+        "object_metadata": {
+          "chest_item_id": "125",
+          "chest_item_type": "Random Treasure"
+        },
+        "universal_id": "dngn_wind_01_4564"
+      }
+    ],
+    "dngn_wind_02.zmb": [
+      {
+        "object_id": "90",
+        "object_type": "Big (White/Gold) Chest (Wind Temple/Bombs), (Courage Temple/Bow)",
+        "location": "0x33d0",
+        "object_metadata": {
+          "chest_item_id": "7",
+          "chest_item_type": "Bombs"
+        },
+        "universal_id": "dngn_wind_02_33d0"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x37dc",
+        "object_metadata": {
+          "chest_item_id": "45",
+          "chest_item_type": "Power Gem"
+        },
+        "universal_id": "dngn_wind_02_37dc"
+      }
+    ],
+    "dngn_wind_03.zmb": [],
+    "dngn_wind_04.zmb": [],
+    "dngn_wind_05.zmb": []
+  },
+  "dngn_wisdom": {
+    "dngn_wisdom_00.zmb": [],
+    "dngn_wisdom_01.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3740",
+        "object_metadata": {
+          "chest_item_id": "125",
+          "chest_item_type": "Random Treasure"
+        },
+        "universal_id": "dngn_wisdom_01_3740"
+      }
+    ],
+    "dngn_wisdom_02.zmb": [
+      {
+        "object_id": "92",
+        "object_type": "Big (White/Gold) Chest (Flame Temple/Boomerang)",
+        "location": "0x3118",
+        "object_metadata": {
+          "chest_item_id": "31",
+          "chest_item_type": "Hammer (No TB)"
+        },
+        "universal_id": "dngn_wisdom_02_3118"
+      }
+    ],
+    "dngn_wisdom_03.zmb": [
+      {
+        "object_id": "90",
+        "object_type": "Big (White/Gold) Chest (Wind Temple/Bombs), (Courage Temple/Bow)",
+        "location": "0x3590",
+        "object_metadata": {
+          "chest_item_id": "15",
+          "chest_item_type": "Boss Key"
+        },
+        "universal_id": "dngn_wisdom_03_3590"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x47f0",
+        "object_metadata": {
+          "chest_item_id": "9",
+          "chest_item_type": "Big Green Rupee (100)"
+        },
+        "universal_id": "dngn_wisdom_03_47f0"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x4f28",
+        "object_metadata": {
+          "chest_item_id": "1",
+          "chest_item_type": "Key"
+        },
+        "universal_id": "dngn_wisdom_03_4f28"
+      }
+    ],
+    "dngn_wisdom_04.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x35c0",
+        "object_metadata": {
+          "chest_item_id": "1",
+          "chest_item_type": "Key"
+        },
+        "universal_id": "dngn_wisdom_04_35c0"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x37f0",
+        "object_metadata": {
+          "chest_item_id": "47",
+          "chest_item_type": "Courage Gem"
+        },
+        "universal_id": "dngn_wisdom_04_37f0"
+      }
+    ],
+    "dngn_wisdom_05.zmb": [],
+    "dngn_wisdom_06.zmb": []
+  },
+  "dngn_wisdom2": {
+    "dngn_wisdom2_00.zmb": [],
+    "dngn_wisdom2_01.zmb": []
+  },
+  "dngn_wisdom3": {
+    "dngn_wisdom3_00.zmb": []
+  },
+  "dngn_wisdom4": {
+    "dngn_wisdom4_00.zmb": []
+  },
+  "isle_flame": {
+    "isle_flame_00.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3b08",
+        "object_metadata": {
+          "chest_item_id": "25",
+          "chest_item_type": "Red Rupee (20)"
+        },
+        "universal_id": "isle_flame_00_3b08",
+        "notes": "on top of volcano",
+        "required": []
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3b24",
+        "object_metadata": {
+          "chest_item_id": "47",
+          "chest_item_type": "Courage Gem"
+        },
+        "universal_id": "isle_flame_00_3b24",
+        "notes": "on small island on top",
+        "required": [
+          {
+            "items": ["grappling_hook"]
+          }
+        ]
+      }
+    ],
+    "isle_flame_01.zmb": [],
+    "isle_flame_10.zmb": [],
+    "isle_flame_11.zmb": [],
+    "isle_flame_12.zmb": [],
+    "isle_flame_20.zmb": []
+  },
+  "isle_hidari": {
+    "isle_hidari_00.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3bf0",
+        "object_metadata": {
+          "chest_item_id": "9",
+          "chest_item_type": "Big Green Rupee (100)"
+        },
+        "universal_id": "isle_hidari_00_3bf0"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3c0c",
+        "object_metadata": {
+          "chest_item_id": "47",
+          "chest_item_type": "Courage Gem"
+        },
+        "universal_id": "isle_hidari_00_3c0c"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3eac",
+        "object_metadata": {
+          "chest_item_id": "45",
+          "chest_item_type": "Power Gem"
+        },
+        "universal_id": "isle_hidari_00_3eac"
+      }
+    ],
+    "isle_hidari_01.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x3124",
+        "object_metadata": {
+          "chest_item_id": "113",
+          "chest_item_type": "Swordsman Scroll"
+        },
+        "universal_id": "isle_hidari_01_3124"
+      }
+    ],
+    "isle_hidari_10.zmb": []
+  },
+  "isle_main": {
+    "isle_main_00.zmb": [],
+    "isle_main_01.zmb": [],
+    "isle_main_02.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3818",
+        "object_metadata": {
+          "chest_item_id": "46",
+          "chest_item_type": "Wisdom Gem"
+        },
+        "universal_id": "isle_main_02_3818",
+        "notes": "On northeast isle with Freedle",
+        "required": [
+          {
+            "items": ["bombs"]
+          }
+        ]
+      }
+    ],
+    "isle_main_03.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3d54",
+        "object_metadata": {
+          "chest_item_id": "126",
+          "chest_item_type": "Ship Part (Random)"
+        },
+        "universal_id": "isle_main_03_3d54",
+        "notes": "left chest on cliff on top of town",
+        "required": [
+          {
+            "items": ["bow", "bombs"]
+          }
+        ]
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3d70",
+        "object_metadata": {
+          "chest_item_id": "9",
+          "chest_item_type": "Big Green Rupee (100)"
+        },
+        "universal_id": "isle_main_03_3d70",
+        "notes": "right chest on cliff on top of town",
+        "required": [
+          {
+            "items": ["bow", "bombs"]
+          }
+        ]
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3f14",
+        "object_metadata": {
+          "chest_item_id": "125",
+          "chest_item_type": "Random Treasure"
+        },
+        "universal_id": "isle_main_03_3f14",
+        "notes": "chest bottom left of town, requires chicken jump",
+        "required": []
+      }
+    ],
+    "isle_main_10.zmb": [],
+    "isle_main_11.zmb": [],
+    "isle_main_12.zmb": [],
+    "isle_main_13.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x30f4",
+        "object_metadata": {
+          "chest_item_id": "126",
+          "chest_item_type": "Ship Part (Random)"
+        },
+        "universal_id": "isle_main_13_30f4",
+        "notes": "chest inside shipyard",
+        "required": []
+      }
+    ],
+    "isle_main_14.zmb": [],
+    "isle_main_15.zmb": [],
+    "isle_main_16.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x311c",
+        "object_metadata": {
+          "chest_item_id": "45",
+          "chest_item_type": "Power Gem"
+        },
+        "universal_id": "isle_main_16_311c",
+        "notes": "inside cave w/ water and bow eye",
+        "required": [
+          {
+            "items": ["bow", "bombs"]
+          }
+        ]
+      }
+    ],
+    "isle_main_17.zmb": [],
+    "isle_main_18.zmb": [
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x3154",
+        "object_metadata": {
+          "chest_item_id": "47",
+          "chest_item_type": "Courage Gem"
+        },
+        "universal_id": "isle_main_18_3154",
+        "notes": "inside hidden cave, hit switch south of bridge",
+        "required": [
+          {
+            "items": ["boomerang", "bombs", "bow"]
+          }
+        ]
+      }
+    ],
+    "isle_main_19.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x30f0",
+        "object_metadata": {
+          "chest_item_id": "3",
+          "chest_item_type": "Sword"
+        },
+        "universal_id": "isle_main_19_30f0"
+      }
+    ]
+  },
+  "isle_myou": {
+    "isle_myou_00.zmb": [
+      {
+        "object_id": "90",
+        "object_type": "Big (White/Gold) Chest (Wind Temple/Bombs), (Courage Temple/Bow)",
+        "location": "0x364c",
+        "object_metadata": {
+          "chest_item_id": "60",
+          "chest_item_type": "Regal Necklace (No TB)"
+        },
+        "universal_id": "isle_myou_00_364c"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3f98",
+        "object_metadata": {
+          "chest_item_id": "103",
+          "chest_item_type": "Treasure Map (NEQ)"
+        },
+        "universal_id": "isle_myou_00_3f98"
+      }
+    ],
+    "isle_myou_01.zmb": [],
+    "isle_myou_02.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x30f0",
+        "object_metadata": {
+          "chest_item_id": "47",
+          "chest_item_type": "Courage Gem"
+        },
+        "universal_id": "isle_myou_02_30f0"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x310c",
+        "object_metadata": {
+          "chest_item_id": "99",
+          "chest_item_type": "Treasure Map (NEQ) [North East Quadrant]"
+        },
+        "universal_id": "isle_myou_02_310c"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3128",
+        "object_metadata": {
+          "chest_item_id": "133",
+          "chest_item_type": "Ship Part (Random)"
+        },
+        "universal_id": "isle_myou_02_3128"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3144",
+        "object_metadata": {
+          "chest_item_id": "133",
+          "chest_item_type": "Ship Part (Random)"
+        },
+        "universal_id": "isle_myou_02_3144"
+      }
+    ],
+    "isle_myou_03.zmb": [],
+    "isle_myou_04.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x31fc",
+        "object_metadata": {
+          "chest_item_id": "45",
+          "chest_item_type": "Power Gem"
+        },
+        "universal_id": "isle_myou_04_31fc"
+      }
+    ],
+    "isle_myou_05.zmb": [],
+    "isle_myou_06.zmb": [],
+    "isle_myou_07.zmb": [],
+    "isle_myou_08.zmb": [],
+    "isle_myou_09.zmb": [],
+    "isle_myou_10.zmb": []
+  },
+  "isle_pluck": {
+    "isle_pluck_00.zmb": [],
+    "isle_pluck_01.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3ea4",
+        "object_metadata": {
+          "chest_item_id": "47",
+          "chest_item_type": "Courage Gem"
+        },
+        "universal_id": "isle_pluck_01_3ea4"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x4010",
+        "object_metadata": {
+          "chest_item_id": "125",
+          "chest_item_type": "Random Treasure"
+        },
+        "universal_id": "isle_pluck_01_4010"
+      }
+    ],
+    "isle_pluck_10.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3254",
+        "object_metadata": {
+          "chest_item_id": "38",
+          "chest_item_type": "Sun Key"
+        },
+        "universal_id": "isle_pluck_10_3254"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x33f8",
+        "object_metadata": {
+          "chest_item_id": "45",
+          "chest_item_type": "Power Gem"
+        },
+        "universal_id": "isle_pluck_10_33f8"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3414",
+        "object_metadata": {
+          "chest_item_id": "46",
+          "chest_item_type": "Wisdom Gem"
+        },
+        "universal_id": "isle_pluck_10_3414"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3430",
+        "object_metadata": {
+          "chest_item_id": "79",
+          "chest_item_type": "Treasure Map (SWQ)"
+        },
+        "universal_id": "isle_pluck_10_3430"
+      }
+    ],
+    "isle_pluck_11.zmb": [],
+    "isle_pluck_12.zmb": [],
+    "isle_pluck_13.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3110",
+        "object_metadata": {
+          "chest_item_id": "125",
+          "chest_item_type": "Random Treasure"
+        },
+        "universal_id": "isle_pluck_13_3110"
+      }
+    ],
+    "isle_pluck_14.zmb": [],
+    "isle_pluck_15.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3160",
+        "object_metadata": {
+          "chest_item_id": "13",
+          "chest_item_type": "Shovel (No TB)"
+        },
+        "universal_id": "isle_pluck_15_3160"
+      }
+    ]
+  },
+  "isle_power": {
+    "isle_power_00.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3194",
+        "object_metadata": {
+          "chest_item_id": "9",
+          "chest_item_type": "Big Green Rupee (100)"
+        },
+        "universal_id": "isle_power_00_3194"
+      }
+    ],
+    "isle_power_01.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x31f4",
+        "object_metadata": {
+          "chest_item_id": "45",
+          "chest_item_type": "Power Gem"
+        },
+        "universal_id": "isle_power_01_31f4"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x32b8",
+        "object_metadata": {
+          "chest_item_id": "77",
+          "chest_item_type": "Treasure Map (SWQ)"
+        },
+        "universal_id": "isle_power_01_32b8"
+      }
+    ],
+    "isle_power_02.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3398",
+        "object_metadata": {
+          "chest_item_id": "47",
+          "chest_item_type": "Courage Gem"
+        },
+        "universal_id": "isle_power_02_3398"
+      }
+    ],
+    "isle_power_03.zmb": [],
+    "isle_power_10.zmb": [],
+    "isle_power_11.zmb": [],
+    "isle_power_12.zmb": [],
+    "isle_power_13.zmb": [],
+    "isle_power_14.zmb": [],
+    "isle_power_15.zmb": [],
+    "isle_power_20.zmb": []
+  },
+  "isle_shrine": {
+    "isle_shrine_00.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3c6c",
+        "object_metadata": {
+          "chest_item_id": "45",
+          "chest_item_type": "Power Gem"
+        },
+        "universal_id": "isle_shrine_00_3c6c"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x4008",
+        "object_metadata": {
+          "chest_item_id": "47",
+          "chest_item_type": "Courage Gem"
+        },
+        "universal_id": "isle_shrine_00_4008"
+      }
+    ],
+    "isle_shrine_01.zmb": []
+  },
+  "isle_small1": {
+    "isle_small1_00.zmb": []
+  },
+  "isle_small2": {
+    "isle_small2_00.zmb": [
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x3498",
+        "object_metadata": {
+          "chest_item_id": "46",
+          "chest_item_type": "Wisdom Gem"
+        },
+        "universal_id": "isle_small2_00_3498"
+      },
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x34b4",
+        "object_metadata": {
+          "chest_item_id": "102",
+          "chest_item_type": "Treasure Map (NEQ)"
+        },
+        "universal_id": "isle_small2_00_34b4"
+      },
+      {
+        "object_id": "91",
+        "object_type": "Big (White/Gold) Chest (Goron Temple/Bombchus/BigKey), (Ice Temple/GrapplingHook/BigKey)",
+        "location": "0x34d0",
+        "object_metadata": {
+          "chest_item_id": "10",
+          "chest_item_type": "Heart Container"
+        },
+        "universal_id": "isle_small2_00_34d0"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x3bec",
+        "object_metadata": {
+          "chest_item_id": "27",
+          "chest_item_type": "Big Gold Rupee (300)"
+        },
+        "universal_id": "isle_small2_00_3bec"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3c78",
+        "object_metadata": {
+          "chest_item_id": "46",
+          "chest_item_type": "Wisdom Gem"
+        },
+        "universal_id": "isle_small2_00_3c78"
+      }
+    ]
+  },
+  "isle_small3": {
+    "isle_small3_00.zmb": [],
+    "isle_small3_10.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3250",
+        "object_metadata": {
+          "chest_item_id": "47",
+          "chest_item_type": "Courage Gem"
+        },
+        "universal_id": "isle_small3_10_3250"
+      }
+    ],
+    "isle_small3_11.zmb": []
+  },
+  "isle_small5": {
+    "isle_small5_00.zmb": [
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x33f0",
+        "object_metadata": {
+          "chest_item_id": "27",
+          "chest_item_type": "Big Gold Rupee (300)"
+        },
+        "universal_id": "isle_small5_00_33f0"
+      },
+      {
+        "object_id": "12",
+        "object_type": "Entering the area spawns a treasure chest (Conditional Treasure Chest Spawn?)",
+        "location": "0x39f4",
+        "object_metadata": {
+          "chest_item_id": "47",
+          "chest_item_type": "Courage Gem"
+        },
+        "universal_id": "isle_small5_00_39f4"
+      }
+    ],
+    "isle_small5_10.zmb": []
+  },
+  "isle_torii": {
+    "isle_torii_00.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x45a8",
+        "object_metadata": {
+          "chest_item_id": "82",
+          "chest_item_type": "Treasure Map (SWQ)"
+        },
+        "universal_id": "isle_torii_00_45a8"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x45e0",
+        "object_metadata": {
+          "chest_item_id": "25",
+          "chest_item_type": "Red Rupee (20)"
+        },
+        "universal_id": "isle_torii_00_45e0"
+      }
+    ],
+    "isle_torii_10.zmb": [
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x3138",
+        "object_metadata": {
+          "chest_item_id": "121",
+          "chest_item_type": "Golden Chimney"
+        },
+        "universal_id": "isle_torii_10_3138"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x3154",
+        "object_metadata": {
+          "chest_item_id": "122",
+          "chest_item_type": "Golden Handrail"
+        },
+        "universal_id": "isle_torii_10_3154"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x3170",
+        "object_metadata": {
+          "chest_item_id": "123",
+          "chest_item_type": "Golden Cannon"
+        },
+        "universal_id": "isle_torii_10_3170"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x318c",
+        "object_metadata": {
+          "chest_item_id": "124",
+          "chest_item_type": "Golden Hull"
+        },
+        "universal_id": "isle_torii_10_318c"
+      }
+    ],
+    "isle_torii_11.zmb": []
+  },
+  "isle_water": {
+    "isle_water_00.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3334",
+        "object_metadata": {
+          "chest_item_id": "46",
+          "chest_item_type": "Wisdom Gem"
+        },
+        "universal_id": "isle_water_00_3334"
+      }
+    ],
+    "isle_water_01.zmb": [],
+    "isle_water_02.zmb": [],
+    "isle_water_03.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x31a0",
+        "object_metadata": {
+          "chest_item_id": "45",
+          "chest_item_type": "Power Gem"
+        },
+        "universal_id": "isle_water_03_31a0"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x31d8",
+        "object_metadata": {
+          "chest_item_id": "25",
+          "chest_item_type": "Red Rupee (20)"
+        },
+        "universal_id": "isle_water_03_31d8"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x31f4",
+        "object_metadata": {
+          "chest_item_id": "25",
+          "chest_item_type": "Red Rupee (20)"
+        },
+        "universal_id": "isle_water_03_31f4"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x33ec",
+        "object_metadata": {
+          "chest_item_id": "9",
+          "chest_item_type": "Big Green Rupee (100)"
+        },
+        "universal_id": "isle_water_03_33ec"
+      }
+    ],
+    "isle_water_10.zmb": [],
+    "isle_water_11.zmb": [],
+    "isle_water_12.zmb": [],
+    "isle_water_13.zmb": [],
+    "isle_water_14.zmb": [],
+    "isle_water_15.zmb": [],
+    "isle_water_16.zmb": [],
+    "isle_water_17.zmb": [],
+    "isle_water_18.zmb": [],
+    "isle_water_19.zmb": []
+  },
+  "isle_wind": {
+    "isle_wind_00.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x42ec",
+        "object_metadata": {
+          "chest_item_id": "45",
+          "chest_item_type": "Power Gem"
+        },
+        "universal_id": "isle_wind_00_42ec"
+      }
+    ],
+    "isle_wind_01.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3d74",
+        "object_metadata": {
+          "chest_item_id": "78",
+          "chest_item_type": "Treasure Map (SWQ)"
+        },
+        "universal_id": "isle_wind_01_3d74"
+      }
+    ],
+    "isle_wind_10.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x31b8",
+        "object_metadata": {
+          "chest_item_id": "47",
+          "chest_item_type": "Courage Gem"
+        },
+        "universal_id": "isle_wind_10_31b8"
+      }
+    ],
+    "isle_wind_11.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3160",
+        "object_metadata": {
+          "chest_item_id": "46",
+          "chest_item_type": "Wisdom Gem"
+        },
+        "universal_id": "isle_wind_11_3160"
+      },
+      {
+        "object_id": "11",
+        "object_type": "Spawning Chest ???",
+        "location": "0x3208",
+        "object_metadata": {
+          "chest_item_id": "86",
+          "chest_item_type": "Treasure Map (NWQ)"
+        },
+        "universal_id": "isle_wind_11_3208"
+      }
+    ]
+  },
+  "isle_wisdom": {
+    "isle_wisdom_00.zmb": [],
+    "isle_wisdom_01.zmb": [],
+    "isle_wisdom_02.zmb": [],
+    "isle_wisdom_03.zmb": [],
+    "isle_wisdom_10.zmb": [],
+    "isle_wisdom_11.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3148",
+        "object_metadata": {
+          "chest_item_id": "46",
+          "chest_item_type": "Wisdom Gem"
+        },
+        "universal_id": "isle_wisdom_11_3148"
+      }
+    ]
+  },
+  "isle_wisdom2": {
+    "isle_wisdom2_00.zmb": [],
+    "isle_wisdom2_01.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3294",
+        "object_metadata": {
+          "chest_item_id": "45",
+          "chest_item_type": "Power Gem"
+        },
+        "universal_id": "isle_wisdom2_01_3294"
+      }
+    ],
+    "isle_wisdom2_02.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3114",
+        "object_metadata": {
+          "chest_item_id": "46",
+          "chest_item_type": "Wisdom Gem"
+        },
+        "universal_id": "isle_wisdom2_02_3114"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x32b8",
+        "object_metadata": {
+          "chest_item_id": "47",
+          "chest_item_type": "Courage Gem"
+        },
+        "universal_id": "isle_wisdom2_02_32b8"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3734",
+        "object_metadata": {
+          "chest_item_id": "26",
+          "chest_item_type": "Big Red Rupee (200)"
+        },
+        "universal_id": "isle_wisdom2_02_3734"
+      },
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x37c0",
+        "object_metadata": {
+          "chest_item_id": "9",
+          "chest_item_type": "Big Green Rupee (100)"
+        },
+        "universal_id": "isle_wisdom2_02_37c0"
+      }
+    ],
+    "isle_wisdom2_03.zmb": [],
+    "isle_wisdom2_10.zmb": [],
+    "isle_wisdom2_11.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3148",
+        "object_metadata": {
+          "chest_item_id": "46",
+          "chest_item_type": "Wisdom Gem"
+        },
+        "universal_id": "isle_wisdom2_11_3148"
+      }
+    ]
+  },
+  "isle_wizard": {
+    "isle_wizard_00.zmb": [
+      {
+        "object_id": "10",
+        "object_type": "Wooden Treasure Chest",
+        "location": "0x3d6c",
+        "object_metadata": {
+          "chest_item_id": "46",
+          "chest_item_type": "Wisdom Gem"
+        },
+        "universal_id": "isle_wizard_00_3d6c"
+      }
+    ],
+    "isle_wizard_10.zmb": []
+  },
+  "salvage": {
+    "salvage_00.zmb": [],
+    "salvage_01.zmb": [],
+    "salvage_02.zmb": [],
+    "salvage_03.zmb": [],
+    "salvage_04.zmb": [],
+    "salvage_05.zmb": []
+  },
+  "sea": {
+    "sea_00.zmb": [],
+    "sea_01.zmb": [],
+    "sea_02.zmb": [],
+    "sea_03.zmb": []
+  },
+  "sea_fishing": {
+    "sea_fishing_00.zmb": []
+  },
+  "sea_minigame": {
+    "sea_minigame_00.zmb": []
+  },
+  "sea_salvage": {
+    "sea_salvage_00.zmb": []
+  },
+  "ship": {
+    "ship_00.zmb": []
+  },
+  "ship_fisher": {
+    "ship_fisher_00.zmb": []
+  },
+  "ship_flink": {
+    "ship_flink_00.zmb": []
+  },
+  "ship_guard": {
+    "ship_guard_00.zmb": []
+  },
+  "ship_hoho": {
+    "ship_hoho_00.zmb": []
+  },
+  "ship_terry": {
+    "ship_terry_00.zmb": []
+  },
+  "ship_wonder": {
+    "ship_wonder_00.zmb": []
+  }
+}

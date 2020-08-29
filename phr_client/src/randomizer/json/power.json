@@ -1,0 +1,3137 @@
+{
+    "dngn_power": {
+        "Map/dngn_power/map00.bin": {
+            "dngn_power_00.zmb": [
+                {
+                    "object_id": "101",
+                    "object_type": "None",
+                    "location": "0x3258",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "61",
+                    "object_type": "None",
+                    "location": "0x3274",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "61",
+                    "object_type": "None",
+                    "location": "0x3290",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "95",
+                    "object_type": "None",
+                    "location": "0x32ac",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "16",
+                    "object_type": "Game Crash",
+                    "location": "0x32c8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "105",
+                    "object_type": "None",
+                    "location": "0x32e4",
+                    "object_metadata": {
+                        "chest_item_id": "4",
+                        "chest_item_type": "Shield"
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3300",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x331c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3338",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3354",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "5",
+                    "object_type": "Brown Floor Switch",
+                    "location": "0x3370",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "19",
+                    "object_type": "Game Crash",
+                    "location": "0x338c",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "5",
+                    "object_type": "Brown Floor Switch",
+                    "location": "0x33a8",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "105",
+                    "object_type": "None",
+                    "location": "0x33c4",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "19",
+                    "object_type": "Game Crash",
+                    "location": "0x33e0",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "62",
+                    "object_type": "None",
+                    "location": "0x33fc",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "11",
+                    "object_type": "Unknown/Nothing",
+                    "location": "0x3418",
+                    "object_metadata": {
+                        "chest_item_id": "25",
+                        "chest_item_type": "Red Rupee (20)"
+                    }
+                },
+                {
+                    "object_id": "16",
+                    "object_type": "Game Crash",
+                    "location": "0x3434",
+                    "object_metadata": {
+                        "chest_item_id": "5",
+                        "chest_item_type": "Key (Textbox: "NO MESSAGE" (No Key Received!))"
+                    }
+                },
+                {
+                    "object_id": "11",
+                    "object_type": "Unknown/Nothing",
+                    "location": "0x3450",
+                    "object_metadata": {
+                        "chest_item_id": "97",
+                        "chest_item_type": "Treasure Map (SEQ)"
+                    }
+                },
+                {
+                    "object_id": "5",
+                    "object_type": "Brown Floor Switch",
+                    "location": "0x346c",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3488",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x34a4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x34c0",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "5",
+                    "object_type": "Brown Floor Switch",
+                    "location": "0x34dc",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x34f8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3514",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3530",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "89",
+                    "object_type": "None",
+                    "location": "0x354c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3568",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "36",
+                    "object_type": "None",
+                    "location": "0x3584",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x35a0",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x35bc",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x35d8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x35f4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3610",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x362c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "157",
+                    "object_type": "None",
+                    "location": "0x3648",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "157",
+                    "object_type": "None",
+                    "location": "0x3664",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "35",
+                    "object_type": "None",
+                    "location": "0x3680",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "106",
+                    "object_type": "None",
+                    "location": "0x369c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x36b8",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x36d4",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x36f0",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x370c",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3728",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3744",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3760",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x377c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3798",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x37b4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x37d0",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x37ec",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3808",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3824",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3840",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x385c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3878",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3894",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x38b0",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x38cc",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x38e8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3904",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3920",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x393c",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3958",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3974",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3990",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x39ac",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x39c8",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x39e4",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3a00",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3a1c",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3a38",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3a54",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3a70",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3a8c",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3aa8",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ac4",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ae0",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3afc",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3b18",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3b34",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3b50",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3b6c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3b88",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ba4",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3bc0",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3bdc",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3bf8",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3c14",
+                    "object_metadata": {
+                        "chest_item_id": "8",
+                        "chest_item_type": "Bow (No TB (TextBox))"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3c30",
+                    "object_metadata": {
+                        "chest_item_id": "10",
+                        "chest_item_type": "Heart Container"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3c4c",
+                    "object_metadata": {
+                        "chest_item_id": "11",
+                        "chest_item_type": "Key (Textbox: "NO MESSAGE" (No Key Received!))"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3c68",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3c84",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ca0",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3cbc",
+                    "object_metadata": {
+                        "chest_item_id": "10",
+                        "chest_item_type": "Heart Container"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3cd8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3cf4",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3d10",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3d2c",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3d48",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3d64",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3d80",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3d9c",
+                    "object_metadata": {
+                        "chest_item_id": "7",
+                        "chest_item_type": "Bombs"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3db8",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3dd4",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3df0",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3e0c",
+                    "object_metadata": {
+                        "chest_item_id": "9",
+                        "chest_item_type": "Big Green Rupee (100)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3e28",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3e44",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3e60",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3e7c",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3e98",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3eb4",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3ed0",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3eec",
+                    "object_metadata": {
+                        "chest_item_id": "9",
+                        "chest_item_type": "Big Green Rupee (100)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f08",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f24",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f40",
+                    "object_metadata": {
+                        "chest_item_id": "5",
+                        "chest_item_type": "Key (Textbox: "NO MESSAGE" (No Key Received!))"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f5c",
+                    "object_metadata": {
+                        "chest_item_id": "11",
+                        "chest_item_type": "Key (Textbox: "NO MESSAGE" (No Key Received!))"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f78",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3f94",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3fb0",
+                    "object_metadata": {
+                        "chest_item_id": "9",
+                        "chest_item_type": "Big Green Rupee (100)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3fcc",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3fe8",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4004",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4020",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x403c",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4058",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x4074",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                }
+            ]
+        },
+        "Map/dngn_power/map01.bin": {
+            "dngn_power_01.zmb": [
+                {
+                    "object_id": "95",
+                    "object_type": "None",
+                    "location": "0x3298",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "95",
+                    "object_type": "None",
+                    "location": "0x32b4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "26",
+                    "object_type": "None",
+                    "location": "0x32d0",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "8",
+                    "object_type": "Small Stone Slab",
+                    "location": "0x32ec",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3308",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3324",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3340",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x335c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3378",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3394",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x33b0",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x33cc",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x33e8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3404",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3420",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x343c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3458",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3474",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "5",
+                    "object_type": "Brown Floor Switch",
+                    "location": "0x3490",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "5",
+                    "object_type": "Brown Floor Switch",
+                    "location": "0x34ac",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "91",
+                    "object_type": "None",
+                    "location": "0x34c8",
+                    "object_metadata": {
+                        "chest_item_id": "14",
+                        "chest_item_type": "Bombchus (No TB)"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x34e4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3500",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x351c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "19",
+                    "object_type": "Game Crash",
+                    "location": "0x3538",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "16",
+                    "object_type": "Game Crash",
+                    "location": "0x3554",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3570",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x358c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x35a8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x35c4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x35e0",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "11",
+                    "object_type": "Unknown/Nothing",
+                    "location": "0x35fc",
+                    "object_metadata": {
+                        "chest_item_id": "134",
+                        "chest_item_type": "Goron Amber"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3618",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3634",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3650",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x366c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3688",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x36a4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "157",
+                    "object_type": "None",
+                    "location": "0x36c0",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "157",
+                    "object_type": "None",
+                    "location": "0x36dc",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "106",
+                    "object_type": "None",
+                    "location": "0x36f8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "106",
+                    "object_type": "None",
+                    "location": "0x3714",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3730",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x374c",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3768",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3784",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x37a0",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x37bc",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x37d8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x37f4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3810",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x382c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3848",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3864",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3880",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x389c",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x38b8",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x38d4",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x38f0",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x390c",
+                    "object_metadata": {
+                        "chest_item_id": "4",
+                        "chest_item_type": "Shield"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3928",
+                    "object_metadata": {
+                        "chest_item_id": "5",
+                        "chest_item_type": "Key (Textbox: "NO MESSAGE" (No Key Received!))"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3944",
+                    "object_metadata": {
+                        "chest_item_id": "7",
+                        "chest_item_type": "Bombs"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3960",
+                    "object_metadata": {
+                        "chest_item_id": "9",
+                        "chest_item_type": "Big Green Rupee (100)"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x397c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x3998",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x39b4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x39d0",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x39ec",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x3a08",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x3a24",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x3a40",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x3a5c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x3a78",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x3a94",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3ab0",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3acc",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3ae8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3b04",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3b20",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3b3c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3b58",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3b74",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                }
+            ]
+        },
+        "Map/dngn_power/map02.bin": {
+            "dngn_power_02.zmb": [
+                {
+                    "object_id": "26",
+                    "object_type": "None",
+                    "location": "0x3178",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "26",
+                    "object_type": "None",
+                    "location": "0x3194",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "95",
+                    "object_type": "None",
+                    "location": "0x31b0",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "91",
+                    "object_type": "None",
+                    "location": "0x31cc",
+                    "object_metadata": {
+                        "chest_item_id": "15",
+                        "chest_item_type": "Boss Key"
+                    }
+                },
+                {
+                    "object_id": "16",
+                    "object_type": "Game Crash",
+                    "location": "0x31e8",
+                    "object_metadata": {
+                        "chest_item_id": "5",
+                        "chest_item_type": "Key (Textbox: "NO MESSAGE" (No Key Received!))"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3204",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3220",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x323c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "16",
+                    "object_type": "Game Crash",
+                    "location": "0x3258",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "16",
+                    "object_type": "Game Crash",
+                    "location": "0x3274",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3290",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x32ac",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x32c8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "106",
+                    "object_type": "None",
+                    "location": "0x32e4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3300",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x331c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3338",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3354",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "157",
+                    "object_type": "None",
+                    "location": "0x3370",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "157",
+                    "object_type": "None",
+                    "location": "0x338c",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x33a8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x33c4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x33e0",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "8",
+                    "object_type": "Small Stone Slab",
+                    "location": "0x33fc",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3418",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3434",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "157",
+                    "object_type": "None",
+                    "location": "0x3450",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "5",
+                    "object_type": "Brown Floor Switch",
+                    "location": "0x346c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "105",
+                    "object_type": "None",
+                    "location": "0x3488",
+                    "object_metadata": {
+                        "chest_item_id": "4",
+                        "chest_item_type": "Shield"
+                    }
+                },
+                {
+                    "object_id": "16",
+                    "object_type": "Game Crash",
+                    "location": "0x34a4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "16",
+                    "object_type": "Game Crash",
+                    "location": "0x34c0",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "11",
+                    "object_type": "Unknown/Nothing",
+                    "location": "0x34dc",
+                    "object_metadata": {
+                        "chest_item_id": "134",
+                        "chest_item_type": "Goron Amber"
+                    }
+                },
+                {
+                    "object_id": "106",
+                    "object_type": "None",
+                    "location": "0x34f8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "106",
+                    "object_type": "None",
+                    "location": "0x3514",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x3530",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x354c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x3568",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x3584",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "2",
+                    "object_type": "Boulder",
+                    "location": "0x35a0",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x35bc",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x35d8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x35f4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3610",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x362c",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3648",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3664",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3680",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x369c",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x36b8",
+                    "object_metadata": {
+                        "chest_item_id": "4",
+                        "chest_item_type": "Shield"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x36d4",
+                    "object_metadata": {
+                        "chest_item_id": "5",
+                        "chest_item_type": "Key (Textbox: "NO MESSAGE" (No Key Received!))"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x36f0",
+                    "object_metadata": {
+                        "chest_item_id": "6",
+                        "chest_item_type": "Force Gem (No Textbox)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x370c",
+                    "object_metadata": {
+                        "chest_item_id": "7",
+                        "chest_item_type": "Bombs"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3728",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3744",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3760",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x377c",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3798",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x37b4",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                }
+            ]
+        },
+        "Map/dngn_power/map03.bin": {
+            "dngn_power_03.zmb": [
+                {
+                    "object_id": "26",
+                    "object_type": "None",
+                    "location": "0x313c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "95",
+                    "object_type": "None",
+                    "location": "0x3158",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "26",
+                    "object_type": "None",
+                    "location": "0x3174",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "33",
+                    "object_type": "None",
+                    "location": "0x3190",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "23",
+                    "object_type": "Game Crash",
+                    "location": "0x31ac",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "24",
+                    "object_type": "Game Crash",
+                    "location": "0x31c8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "24",
+                    "object_type": "Game Crash",
+                    "location": "0x31e4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "24",
+                    "object_type": "Game Crash",
+                    "location": "0x3200",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "24",
+                    "object_type": "Game Crash",
+                    "location": "0x321c",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "24",
+                    "object_type": "Game Crash",
+                    "location": "0x3238",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "24",
+                    "object_type": "Game Crash",
+                    "location": "0x3254",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "16",
+                    "object_type": "Game Crash",
+                    "location": "0x3270",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x328c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x32a8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x32c4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x32e0",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x32fc",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "69",
+                    "object_type": "None",
+                    "location": "0x3318",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3334",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3350",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x336c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3388",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x33a4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x33c0",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "157",
+                    "object_type": "None",
+                    "location": "0x33dc",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "157",
+                    "object_type": "None",
+                    "location": "0x33f8",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3414",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3430",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x344c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3468",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "106",
+                    "object_type": "None",
+                    "location": "0x3484",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "106",
+                    "object_type": "None",
+                    "location": "0x34a0",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "11",
+                    "object_type": "Unknown/Nothing",
+                    "location": "0x34bc",
+                    "object_metadata": {
+                        "chest_item_id": "25",
+                        "chest_item_type": "Red Rupee (20)"
+                    }
+                },
+                {
+                    "object_id": "5",
+                    "object_type": "Brown Floor Switch",
+                    "location": "0x34d8",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "5",
+                    "object_type": "Brown Floor Switch",
+                    "location": "0x34f4",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "5",
+                    "object_type": "Brown Floor Switch",
+                    "location": "0x3510",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "5",
+                    "object_type": "Brown Floor Switch",
+                    "location": "0x352c",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                }
+            ]
+        },
+        "Map/dngn_power/map04.bin": {
+            "dngn_power_04.zmb": [
+                {
+                    "object_id": "26",
+                    "object_type": "None",
+                    "location": "0x310c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "46",
+                    "object_type": "None",
+                    "location": "0x3128",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "35",
+                    "object_type": "None",
+                    "location": "0x3144",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x3160",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x317c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "157",
+                    "object_type": "None",
+                    "location": "0x3198",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "157",
+                    "object_type": "None",
+                    "location": "0x31b4",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                }
+            ]
+        },
+        "Map/dngn_power/map05.bin": {
+            "dngn_power_05.zmb": [
+                {
+                    "object_id": "101",
+                    "object_type": "None",
+                    "location": "0x310c",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "101",
+                    "object_type": "None",
+                    "location": "0x3128",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3144",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3160",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x317c",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "67",
+                    "object_type": "None",
+                    "location": "0x3198",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x31b4",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "14",
+                    "object_type": "Blue Pot Again",
+                    "location": "0x31d0",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "157",
+                    "object_type": "None",
+                    "location": "0x31ec",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "157",
+                    "object_type": "None",
+                    "location": "0x3208",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "95",
+                    "object_type": "None",
+                    "location": "0x3224",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3240",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x325c",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3278",
+                    "object_metadata": {
+                        "chest_item_id": "2",
+                        "chest_item_type": "Green Rupee (1)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3294",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x32b0",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x32cc",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x32e8",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3304",
+                    "object_metadata": {
+                        "chest_item_id": "0",
+                        "chest_item_type": "Nothing! ("Nothing is here")"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3320",
+                    "object_metadata": {
+                        "chest_item_id": "4",
+                        "chest_item_type": "Shield"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x333c",
+                    "object_metadata": {
+                        "chest_item_id": "10",
+                        "chest_item_type": "Heart Container"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3358",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3374",
+                    "object_metadata": {
+                        "chest_item_id": "3",
+                        "chest_item_type": "Sword"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3390",
+                    "object_metadata": {
+                        "chest_item_id": "9",
+                        "chest_item_type": "Big Green Rupee (100)"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x33ac",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x33c8",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x33e4",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x3400",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                },
+                {
+                    "object_id": "70",
+                    "object_type": "None",
+                    "location": "0x341c",
+                    "object_metadata": {
+                        "chest_item_id": "8",
+                        "chest_item_type": "Bow (No TB (TextBox))"
+                    }
+                }
+            ]
+        },
+        "Map/dngn_power/map10.bin": {
+            "dngn_power_10.zmb": [
+                {
+                    "object_id": "154",
+                    "object_type": "None",
+                    "location": "0x3194",
+                    "object_metadata": {
+                        "chest_item_id": "114",
+                        "chest_item_type": "Crimsonine"
+                    }
+                },
+                {
+                    "object_id": "101",
+                    "object_type": "None",
+                    "location": "0x31b0",
+                    "object_metadata": {
+                        "chest_item_id": "1",
+                        "chest_item_type": "Key"
+                    }
+                }
+            ]
+        }
+    },
+}
