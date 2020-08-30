@@ -4,9 +4,6 @@ from ndspy import lz10, narc, rom
 
 def generate_rom(randomized_json, rom_path, output_path):
    game_rom = rom.NintendoDSRom.fromFile(rom_path)
-   # TODO: determine if dpad patch is applied
-   dpad_patch = True
-   starting_id = 432 if dpad_patch else 433 # 0433
 
    for location in randomized_json:
       for zmb in randomized_json[location]:
@@ -36,10 +33,11 @@ def main(argv):
          rom_output_location = arg
       elif opt in ('-r', '--rom'):
          rom_location = arg
+
    randomized_json = json.loads(input())
-   # print(randomized_json) # TODO: Remove this
    if randomized_json is None or rom_output_location is None or rom_location is None:
       raise "error, missing required parameter"
+
    generate_rom(randomized_json, rom_location, rom_output_location)
    
 
