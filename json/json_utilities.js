@@ -4,8 +4,7 @@
 
 const fs = require('fs');
 
-// const chests = require('./chests_v3.json');
-const chests = require('./chests_v5.json');
+const chests = require('./chests.json');
 const item_to_id_mapping = require('./item_to_id.json');
 
 function generateUniversalIds(chests, versionNumber) {

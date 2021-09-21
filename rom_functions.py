@@ -16,6 +16,7 @@ def generate_rom(randomized_json, rom_path, output_path):
             zmb_file = zmb_file[:offset] + bytes([int(chest['object_metadata']['chest_item_id'])]) + zmb_file[offset+1:]
          narc_file.setFileByName(f'zmb/{zmb}', zmb_file)
          game_rom.setFileByName(narc_path, lz10.compress(narc_file.save()))
+   print(output_path)
    game_rom.saveToFile(output_path)
 
 
@@ -33,7 +34,7 @@ def main(argv):
          rom_output_location = arg
       elif opt in ('-r', '--rom'):
          rom_location = arg
-
+   
    randomized_json = json.loads(input())
    if randomized_json is None or rom_output_location is None or rom_location is None:
       raise "error, missing required parameter"
@@ -43,3 +44,4 @@ def main(argv):
 
 if __name__ == "__main__":
    main(sys.argv[1:])
+   

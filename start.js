@@ -1,5 +1,5 @@
 const { spawnSync } = require('child_process');
-const { generateSeed } = require('./phr_client/src/randomizer/randomize');
+const { generateSeed } = require('./randomize.js');
 
 const args = process.argv.slice(2);
 
@@ -28,5 +28,6 @@ for (let i = 0; i < args.length; i++) {
 
 const randomized_json = generateSeed();
 console.log('Generating randomized ROM...');
-const python = spawnSync('python', ['./phr_client/src/python/rom_functions.py', '--output', output, '--rom', input], { encoding : 'utf8', input: JSON.stringify(randomized_json) });
+const python = spawnSync('python', ['./rom_functions.py', '--output', output, '--rom', input], { encoding : 'utf8', input: JSON.stringify(randomized_json) });
+console.log(python.stdout.toString())
 console.log(`Done. ROM saved to ${output}`);

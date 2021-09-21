@@ -1,7 +1,4 @@
-/* eslint-disable */
-
-
-const fs = require('fs');
+const chest_contents_list = [10, 10, 10, 10, 10, 10, 10, 25, 1, 1, 25, 12, 25, 15, 125, 35, 129, 119, 34, 118, 19, 0, 47, 125, 46, 125, 6, 6, 6, 45, 125, 20, 45, 125, 117, 98, 84, 125, 126, 34, 45, 126, 47, 35, 46, 126, 21, 9, 105, 117, 26, 125, 6, 6, 27, 106, 126, 22, 135, 135, 125, 126, 45, 1, 8, 46, 9, 33, 15, 45, 125, 47, 25, 97, 14, 134, 15, 134, 25, 45, 46, 117, 119, 1, 46, 32, 15, 1, 118, 15, 47, 125, 7, 45, 125, 31, 15, 9, 1, 1, 47, 25, 47, 9, 47, 45, 113, 46, 126, 9, 125, 126, 45, 47, 3, 60, 103, 47, 99, 133, 133, 45, 47, 125, 38, 45, 46, 79, 125, 13, 9, 45, 77, 47, 45, 47, 46, 102, 10, 27, 46, 47, 27, 47, 82, 25, 121, 122, 123, 124, 46, 45, 25, 25, 9, 45, 78, 47, 46, 86, 46, 45, 46, 47, 26, 9, 46, 46]
 
 /**
  * Shuffles array in place.
@@ -58,9 +55,6 @@ function hasItems(required_items, current_inventory) {
         for (const item of items) {
             if (!current_inventory.has(item)) {
                 current_items_work = false;
-                // console.log(`Don't have`);
-                // console.log(item);
-                // console.log(required_items,'\n');
                 break;
             }
         }
@@ -105,8 +99,6 @@ function canDefeat(enemies, current_inventory, enemies_conversion) {
     return true;
 }
 
-const chest_contents_list = [10, 10, 10, 10, 10, 10, 10, 25, 1, 1, 25, 12, 25, 15, 125, 35, 129, 119, 34, 118, 19, 0, 47, 125, 46, 125, 6, 6, 6, 45, 125, 20, 45, 125, 117, 98, 84, 125, 126, 34, 45, 126, 47, 35, 46, 126, 21, 9, 105, 117, 26, 125, 6, 6, 27, 106, 126, 22, 135, 135, 125, 126, 45, 1, 8, 46, 9, 33, 15, 45, 125, 47, 25, 97, 14, 134, 15, 134, 25, 45, 46, 117, 119, 1, 46, 32, 15, 1, 118, 15, 47, 125, 7, 45, 125, 31, 15, 9, 1, 1, 47, 25, 47, 9, 47, 45, 113, 46, 126, 9, 125, 126, 45, 47, 3, 60, 103, 47, 99, 133, 133, 45, 47, 125, 38, 45, 46, 79, 125, 13, 9, 45, 77, 47, 45, 47, 46, 102, 10, 27, 46, 47, 27, 47, 82, 25, 121, 122, 123, 124, 46, 45, 25, 25, 9, 45, 78, 47, 46, 86, 46, 45, 46, 47, 26, 9, 46, 46]
-
 /**
  * 
  * @param {*} seed_json Randomized game in JSON format
@@ -132,14 +124,10 @@ function isValidSeed(seed_json, defeatable_json, needed_to_win, num_of_chests) {
                     }
                     explored.add(object.universal_id);
                     if (!object.required) {
-                        // throw new Error(`[${location}/${zmb}]: Missing 'required' field`);
-                        // console.log(`[${location}/${zmb}]: Missing 'required' field`);
-                        // TODO: remove these below lines when logic is finished
                         inventory.add(object.object_metadata.chest_item_id);
                         inventory_uids.add(object.universal_id);
                         inventory_count++;
                         explored = new Set();
-                        // console.log(`Got ${object.object_metadata.chest_item_id}!!!`)
                         object.done = true;
                         break;
                     }
@@ -171,12 +159,10 @@ function isValidSeed(seed_json, defeatable_json, needed_to_win, num_of_chests) {
 
 
 const { mapItemNamesToIds } = require('./json/json_utilities');
-const chests_json = mapItemNamesToIds(require('./json/chests_v5.json'));
+const chests_json = mapItemNamesToIds(require('./json/chests'));
 const defeatable_enemies = require('./json/enemies.json');
 const item_to_id_mapping = require('./json/item_to_id.json');
 
-
-// const chest_contents_list = [10, 10, 10, 10, 10, 10, 10, 25, 1, 1, 25, 12, 25, 15, 125, 35, 129, 119, 34, 118, 19, 0, 47, 125, 46, 125, 6, 6, 6, 45, 125, 20, 45, 125, 117, 98, 84, 125, 126, 34, 45, 126, 47, 35, 46, 126, 21, 9, 105, 117, 26, 125, 6, 6, 27, 106, 126, 22, 135, 135, 125, 126, 45, 1, 8, 46, 9, 33, 15, 45, 125, 47, 25, 97, 14, 134, 15, 134, 25, 45, 46, 117, 119, 1, 46, 32, 15, 1, 118, 15, 47, 125, 7, 45, 125, 31, 15, 9, 1, 1, 47, 25, 47, 9, 47, 45, 113, 46, 126, 9, 125, 126, 45, 47, 3, 60, 103, 47, 99, 133, 133, 45, 47, 125, 38, 45, 46, 79, 125, 13, 9, 45, 77, 47, 45, 47, 46, 102, 10, 27, 46, 47, 27, 47, 82, 25, 121, 122, 123, 124, 46, 45, 25, 25, 9, 45, 78, 47, 46, 86, 46, 45, 46, 47, 26, 9, 46, 46]
 
 const needed_to_win = new Set(['3', '7', '8', '12', '14']); // TODO: move this to external file, actually list items needed to beat game
 
