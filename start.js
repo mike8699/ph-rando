@@ -30,4 +30,5 @@ const randomized_json = generateSeed();
 console.log('Generating randomized ROM...');
 const python = spawnSync('python', ['./rom_functions.py', '--output', output, '--rom', input], { encoding : 'utf8', input: JSON.stringify(randomized_json) });
 console.log(python.stdout.toString())
+console.log(python.stderr.toString())
 console.log(`Done. ROM saved to ${output}`);

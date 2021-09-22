@@ -1,0 +1,38 @@
+name: test
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.9"
+
+      - name: Install Node
+        uses: actions/setup-node@v2
+
+      - name: Download binary from Google Drive
+        run: |
+          pip install gdown
+          mkdir rom
+          cd rom
+          gdown https://drive.google.com/uc?id=${{ secrets.GOOGLE_DRIVE_FILE_ID }}
+          ls
+
+      - name: Run randomizer
+        run: |
+          pip install ndspy
+          node start.js -i rom/${{ secrets.GOOGLE_DRIVE_FILE_NAME }} -o test.nds
+
+      - name: cleanup
+        run: |
+          ls
+          rm -rf *
+          ls
