@@ -1,3 +1,7 @@
+# NOTICE
+
+This repository is no longer under active development. The code in this repo is being rewritten from scratch, and all development has moved to https://github.com/phst-randomizer/ph-randomizer.
+
 # ph-rando
 
 WIP randomizer for The Legend of Zelda: Phantom Hourglass
